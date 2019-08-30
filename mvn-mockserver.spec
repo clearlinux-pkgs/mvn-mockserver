@@ -4,7 +4,7 @@
 #
 Name     : mvn-mockserver
 Version  : 3.9.2
-Release  : 2
+Release  : 3
 URL      : https://github.com/jamesdbloom/mockserver/archive/mockserver-3.9.2.tar.gz
 Source0  : https://github.com/jamesdbloom/mockserver/archive/mockserver-3.9.2.tar.gz
 Source1  : https://repo1.maven.org/maven2/org/mock-server/mockserver-client-java/3.9.2/mockserver-client-java-3.9.2.jar
